@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: SnowActivist
-description: No more waiting!
+description: Don't waste your time waiting in line!
+logo: [Location of the logo]
+show_downloads: https://github.com/gxc-international-innovation-challenge/gxc-team-23/blob/main/TeamUploads/SnowActivistIcon.png
+google_analytics: [Your Google Analytics tracking ID]
