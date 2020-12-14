@@ -8,4 +8,6 @@ Welcome to the repository of SnowActivist, the application that helps you purcha
 # SnowActivist - the Winter Sport hub
 SnowActivists will enable you not just of purchasing your ski-tickets, but it is the one hub for everything about skiing. It does not matter, whether it is ticketing, renting equipment or finding out about other members of the community - SnowActivist makes your ski trips much more joyful and easy.
 
+![SnowActivistHub](https://user-images.githubusercontent.com/72878620/102143946-00255e00-3e65-11eb-8b19-cc1660b6b763.jpg)
+
 We hope you are as excited about our product now as we are! In case you are interested and want to find out more about it, you can also check out our repository.
