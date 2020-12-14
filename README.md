@@ -5,4 +5,4 @@ Team 23 welcomes you to our GitHub page where you can look through our progress 
 
 By installing Snow Activists and therefore put your time to perfect use with the possibility to buy your ticket efficiently one can individually plan on where to start your perfect winter season, including the help of like-minded people.
 
-! [Storyboard]https://github.com/gxc-international-innovation-challenge/gxc-team-23/blob/main/TeamUploads/FinalesStoryboard.jpg
+! [Storyboard](https://github.com/gxc-international-innovation-challenge/gxc-team-23/blob/main/TeamUploads/FinalesStoryboard.jpg)
