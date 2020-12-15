@@ -10,4 +10,6 @@ SnowActivists will enable you not just of purchasing your ski-tickets, but it is
 
 ![SnowActivistHub](https://user-images.githubusercontent.com/72878620/102144110-34991a00-3e65-11eb-892e-e0c8654ebc9d.jpg)
 
-We hope you are as excited about our product now as we are! In case you are interested and want to find out more about it, you can also check out our repository.
+We hope you are as excited about our product now as we are! In case you are interested and want to find out more about it, you can also check out our repository and our page.
+
+GitHub Page: https://gxc-international-innovation-challenge.github.io/gxc-team-23/
